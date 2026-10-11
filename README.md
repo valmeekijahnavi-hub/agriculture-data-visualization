@@ -54,6 +54,7 @@ Then run:
 ```bash
 streamlit run app.py
 ```
+dashboard link:https://agriculture-data-visualization-hzsarpz5pxfxact8b5s4yx.streamlit.app/
 
 The dashboard will open in your browser.
 
